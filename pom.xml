@@ -85,8 +85,8 @@
 				<version>3.8.0</version>
 				<configuration>
 					<fork>false</fork>
-					<source>${java.version}</source>
-					<target>${java.version}</target>
+					<source>1.8</source>
+					<target>1.8</target>
 					<encoding>UTF-8</encoding>
 					<compilerArgs>
 						<arg>-parameters</arg>
